@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AnimalList</string>
+    <String name ="name">Yashik</String>
 </resources>
